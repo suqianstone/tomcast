@@ -1,8 +1,8 @@
 To enable the web access start tomcast with -b (listen address) and
 -p (listen port parameters).
 在启动tomcast的时候可以使用-b（监听地址）和-p(监听端口)参数来启用web access
-
-For example: tomcast -b 127.0.0.1 -p 8081
+比如
+    tomcast -b 127.0.0.1 -p 8081
 
 Now you can access the web interface exposed by tomcast at
 
